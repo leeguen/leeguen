@@ -32,8 +32,8 @@
   
 <hr><br>
 
-<h4>🔗 Tech Blog : https://catchknowledge.tistory.com/ </h4>
-<h5>개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
+<h4>개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h4>
+<h5>link : https://catchknowledge.tistory.com/</h5>
 <hr><br>
 
 <h3>📖 프로젝트 📖</h3>
