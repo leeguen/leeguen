@@ -20,12 +20,15 @@
 <h5>개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
 <hr><br>
 
-<h3>📖 주요 프로젝트 📖</h3>
-<h4>1. Intranet-site :  </h4>
-<h5>- 회사 인트라넷을 구현해 본 사이트</h5>
+<h3>📖 프로젝트 📖</h3>
+<h4>1. 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 </h4>
+<h5>- link : http://ec2-15-165-155-144.ap-northeast-2.compute.amazonaws.com:8080/</h5>
 
-<h4>2. FintechPay-Api :  </h4>
-<h5>- openbanking API를 연동해 만들어본 API</h5><br>
+<h4>2. REST API를 이용한 간단한 게시판 </h4>
+<h5>- link : </h5><br>
+
+<h4>2. 스프링부트 MVC 패턴 쇼핑몰</h4>
+<h5>- link : </h5><br>
 
 <h4>- 🌱 I’m currently learning ... </h4>
 - React 
