@@ -1,8 +1,10 @@
 ### 👋 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.
 ### 👋 (Hi there, I am Kun Lee who wants to become a Java backend developer.)
 
+############### Tech Stack ###############
+######Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>Tech Stack</a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 <!--
