@@ -11,8 +11,8 @@
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=F7F4F4"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=F7F4F4"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=F7F4F4"/>
-</div>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-E34F26.svg?&style=for-the-badge&logo=MySQL&logoColor=4479A1"/>
+
 </div>
 <hr><br>
 
