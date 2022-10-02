@@ -4,7 +4,7 @@
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <h4 align="center">Techs that I've used at least once</h4>
 <div style="float:left" align="center">
-  <h4 align="left">F/W
+  <h4 align="left">F/W : 
   <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=070000"/>
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
@@ -13,8 +13,13 @@
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=F7F4F4"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=F7F4F4"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+</div>
+<div style="float:left" align="center">
+  <h4 align="left">LANG : 
+  <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=070000"/>
 
 </div>
+  
 <hr><br>
 
 <h4>🔗 Tech Blog : https://catchknowledge.tistory.com/ </h4>
