@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.
+### 👋 (Hi there, I am Kun Lee who wants to become a Java backend developer.)
 
 <!--
 **leeguen/leeguen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
