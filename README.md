@@ -1,9 +1,8 @@
 👋 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.</p>
 👋 (Hi there, I am Kun Lee who wants to become a Java backend developer.)
 
-<p>Tech Stack</p>
-Techs that I've used at least once
 <h4 align="center">⚒ Tech Stack ⚒</h4>
+<h4 align="center">Techs that I've used at least once</h4>
 <div style="float:left" align="center">
   <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=070000"/>
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
