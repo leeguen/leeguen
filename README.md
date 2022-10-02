@@ -4,7 +4,7 @@
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <h4 align="center">Techs that I've used at least once</h4>
 <div style="float:left" align="center">
-  <h4 align="right">F/W</h4>
+  <h4 align="left">F/W
   <img alt="Java" src ="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=070000"/>
   <img alt="SpringFramework" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=F7F4F4"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=F7F4F4"/>
