@@ -1,5 +1,5 @@
-👋 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.</p>
-👋 (Hi there, I am Kun Lee who wants to become a Java backend developer.)
+## 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.</p>
+## (Hi there, I am Kun Lee who wants to become a Java backend developer.)
 
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <h4 align="center">Techs that I've used at least once</h4>
