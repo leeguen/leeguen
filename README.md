@@ -33,8 +33,8 @@
 <hr><br>
 
 <h3>📖 프로젝트 📖</h3>
-<h4>1. 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 </h4>
-<h5>- link : http://ec2-15-165-155-144.ap-northeast-2.compute.amazonaws.com:8080/</h5>
+<h4>1. 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 클론 코딩 </h4>
+<h5>- [link](https://github.com/leeguen/freelec-springboot2-webservice)</h5>
 
 <h4>2. REST API를 이용한 간단한 게시판 </h4>
 <h5>- link : </h5><br>
