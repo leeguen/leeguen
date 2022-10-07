@@ -33,8 +33,7 @@
 <hr><br>
 
 <h3>📖 프로젝트 📖</h3>
-<h4>1. 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 클론 코딩 </h4>
-[네이버 api를 이용한 검색 프로젝트](https://github.com/leeguen/freelec-springboot2-webservice)
+<h4>1. 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 클론 코딩 </h4>[네이버 api를 이용한 검색 프로젝트](https://github.com/leeguen/freelec-springboot2-webservice)
 
 <h4>2. REST API를 이용한 간단한 게시판 </h4>
 <h5>- link : </h5><br>
@@ -66,3 +65,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
