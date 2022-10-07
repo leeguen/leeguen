@@ -42,7 +42,7 @@ https://github.com/leeguen/search
 <h4>3. JPA,Thymeleaf를 이용한 간단한 게시판</h4>
 https://github.com/leeguen/board_v2
 
-<h4>3. 네이버 api를 이용한 검색 프로젝트</h4>
+<h4>4. 네이버 api를 이용한 검색 프로젝트</h4>
 https://github.com/leeguen/search
   
 
