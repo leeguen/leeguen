@@ -55,8 +55,8 @@ https://github.com/leeguen/community
   
 
 <h4>- 🌱 I’m currently learning ... </h4>
-  <h3> - React </h3>
-  <h3> - MySQL mapping(one to one, one to many, many to many) </h3>
+  <h5> - React </h5>
+  <h5> - MySQL mapping(one to one, one to many, many to many) </h5>
 - 
 
 <hr>
