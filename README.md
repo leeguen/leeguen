@@ -1,5 +1,7 @@
 #### 안녕하세요. 저는 자바 백엔드 개발자가 되고 싶은 이근입니다.</p>
-#### (Hi there, I am Kun Lee who wants to become a Java backend developer.)
+#### 끊임없이 노력하여 성공하는 개발자가 되고 싶습니다.
+#### 중간에 포기하지 않고 끝까지 같이 갈 수 있는 개발자가 되겠습니다.
+
 
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <h4 align="center">Techs that I've used at least once</h4>
