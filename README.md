@@ -55,9 +55,9 @@ https://github.com/leeguen/community
   
 
 <h4>- 🌱 I’m currently learning ... </h4>
-  <h5> - React </h5>
+  <h5> - Spring boot(more) </h5>
   <h5> - MySQL mapping(one to one, one to many, many to many) </h5>
-- 
+  <h5> - React </h5>
 
 <hr>
 <h3> Contact </h3>
