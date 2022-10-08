@@ -37,7 +37,7 @@
 https://github.com/leeguen/freelec-springboot2-webservice
 
 <h4>2. REST API를 이용한 간단한 게시판 </h4>
-https://github.com/leeguen/search
+https://github.com/leeguen/board
 
 <h4>3. JPA,Thymeleaf를 이용한 간단한 게시판</h4>
 https://github.com/leeguen/board_v2
