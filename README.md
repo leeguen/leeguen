@@ -51,7 +51,8 @@ https://github.com/leeguen/search
 
 <h4>- 🌱 I’m currently learning ... </h4>
 - React 
-- React native
+- MySQL mapping(one to one, one to many, many to many)
+- 
 
 <hr>
 <h3> Contact </h3>
