@@ -46,10 +46,13 @@ https://github.com/leeguen/board
 <h4>3. JPA,Thymeleaf를 이용한 간단한 게시판</h4>
 https://github.com/leeguen/board_v2
 
-<h4>4. 네이버 api를 이용한 검색 프로젝트</h4>
+<h4>4. 네이버 api를 이용한 검색 사이트</h4>
 https://github.com/leeguen/search
-  
-<h4>5. 커뮤니티(미완성)</h4>
+
+<h4>5. 회원 게시판</h4>
+https://github.com/leeguen/community
+
+<h4>6. 쇼핑몰(미완성)</h4>
 https://github.com/leeguen/community
 
   
