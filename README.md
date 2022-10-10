@@ -50,10 +50,7 @@ https://github.com/leeguen/board_v2
 https://github.com/leeguen/search
 
 <h4>5. 회원 게시판</h4>
-https://github.com/leeguen/community
-
-<h4>6. 쇼핑몰(미완성)</h4>
-https://github.com/leeguen/community
+https://github.com/leeguen/board_v3
 
   
 
